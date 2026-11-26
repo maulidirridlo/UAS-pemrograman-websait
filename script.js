@@ -23,10 +23,10 @@ document.querySelector("#sapaan").textContent = buatSapaan(waktu);
 // 2. Kegiatan santri (array of objects) - Hover di desktop & sentuh di HP
 let kegiatan = [
   { kategori: "Harian", nama: "Sholat jamaah 5 waktu" },
-  { kategori: "Harian", nama: "Waqi'ahan dan ngaji subuh", foto: "ngaji.jpg" },
+  { kategori: "Harian", nama: "Waqi'ahan dan ngaji subuh", foto: "waqiah.jpeg" },
   { kategori: "Harian", nama: "Qur'anan" },
   { kategori: "Harian", nama: "Asmaul Husna" },
-  { kategori: "Harian", nama: "Sorogan Al-Qur'an setelah Maghrib" },
+  { kategori: "Harian", nama: "Sorogan Al-Qur'an setelah Maghrib", foto: "sorogan quran.jpeg" },
   { kategori: "Harian", nama: "Madin (mengaji kitab)" },
   { kategori: "Harian", nama: "Syawir" },
   { kategori: "Mingguan", nama: "Roan akbar (bersih-bersih pondok) setiap hari Minggu" },
@@ -38,7 +38,7 @@ let kegiatan = [
   { kategori: "Bulanan", nama: "Dzikir Manaqib Syekh Abdul Qodir Jaelani" },
   { kategori: "Tahunan", nama: "Akhirussanah", foto: "akhirussanah.jpg" },
   { kategori: "Tahunan", nama: "Mafia Santri", foto: "mafia santri.jpg" },
-  { kategori: "Tahunan", nama: "Peringatan HSN" },
+  { kategori: "Tahunan", nama: "Peringatan HSN", foto: "peringatan hari santri.jpeg" },
   { kategori: "Tahunan", nama: "Ziarah makam wali (Bagi Santri 3 sanawi)", foto: "ziarah makam wali.png" },
   { kategori: "Tahunan", nama: "Peringatan 17 Agustus", foto: "kegiatan 17an.jpg" },
   { kategori: "Tahunan", nama: "Haul masyayikh", foto: "ziarah makom abah.jpg" },
